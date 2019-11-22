@@ -60,6 +60,10 @@
   .__carousel-innert>.item> .__img {
     height: 496px;
   }
+
+  .__colat {
+    font-size: 47px;
+  }
   
 
 }
@@ -108,6 +112,10 @@
     height: 70vh;
   }
 
+  .__colat {
+    font-size: 37px;
+  }
+
 
 }
 
@@ -150,7 +158,7 @@
 
   .__carousel-caption {
     right: 8% !important;
-    top: 49px;
+    top: 4px;
     left: 5% !important;
   }
 
